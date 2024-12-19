@@ -1,4 +1,4 @@
-# 04_predict
+# 03_predict
 
 As part of the `Predict` phase, we will explore and test the end\-to\-end Applied Machine Learning Prototype (AMP) project we created in the [Prerequisites Lab](00_prereqs.md) using Cloudera Machine Learning (CML).
 
@@ -228,4 +228,4 @@ It is important to emphasize that there was no requirement to create a duplicate
 
     ![Stop Session](images/CML_stop_session.png)
 
-Now we are ready to take a look at some of the interesting features Iceberg has to offer. Please visit [05_iceberg](05_iceberg.md) to explore key Iceberg features in more detail.
+Now we are ready to take a look at some of the interesting features Iceberg has to offer. Please visit [04_iceberg](04_iceberg.md) to explore key Iceberg features in more detail.

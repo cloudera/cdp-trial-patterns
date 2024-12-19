@@ -109,4 +109,4 @@ ORDER BY
 
 Now that we know we can answer many burning business questions with this data, we need to get the analytic power into the hands of our Business Users.  Since they are not as familiar with writing complex SQL, we need to give them visualizations of the data so they can discover insights from the data.
 
-We are now ready to [Predict](04_predict.md#04_predict) the likelihood of a flight being canceled.
+We are now ready to [Predict](03_predict.md#03_predict) the likelihood of a flight being canceled.
