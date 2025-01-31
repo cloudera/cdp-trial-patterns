@@ -320,4 +320,4 @@ The primary goal of this is to build an ingestion data pipeline.
       
       ![Describe Planes Iceberg Table](images/query.describe.planes.png)
 
-We are now ready to [Analyze](02_analyze.md) and [Predict](04_predict.md) Data!
+We are now ready to [Analyze](02_analyze.md) and [Predict](03_predict.md) Data!
