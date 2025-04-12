@@ -31,6 +31,5 @@ This Hands On Lab is designed to walk you through the Services's main capabiliti
 ## Step by Step Instructions
 
 - [Lab-01_Sessions_And_Apache_Iceberg.md](01_Sessions_And_Apache_Iceberg.md) - Explore Cde Spark Sessions and Iceberg capabilities.
-- [Lab-02_Spark_And_AirFlow_Jobs.md](02_Spark_And_Airflow_Jobs.md) - Explore Cde Spark Sessions and AirFlow capabilities.
 
 ---
