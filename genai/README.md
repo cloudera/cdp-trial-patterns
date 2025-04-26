@@ -12,16 +12,22 @@ Cloudera AI is a unified platform that supports the entire machine learning and 
 
 ## About the Labs
 
-1. **Deploy an LLM Chatbot with an AMP**
-   Leverage an Accelerator for ML Project (AMP) to quickly deploy an LLM Chatbot augmented by Enterprise data. This lab will:
-   - Guide you through a one-click deployment process.
-   - Demonstrate how to integrate enterprise data for context-aware responses.
-   👉 [Start Here](01_llmchatbot.md)
+1. **Build your first Agentic Application**
+   Explore how to build an agentic application using Cloudera AI Agent Studio. In this lab, you will:
+   - Pick from a list of our pre-built agent workflows (or start from scratch).
+   - Learn how to create, test and deploy an agentic application.
+   👉 [Start Here](01_agents.md)
 
 2. **Build Your Own AI Application**
    Explore how to leverage Cloudera's AI Inference service for enterprise-grade LLM deployment. In this lab, you will:
    - Import and deploy a model from the Cloudera Model Hub.
    - Integrate the deployed model to your AI Application.
    👉 [Start Here](02_aiinf.md)
+
+3. **Deploy an LLM Chatbot with an AMP**
+   Leverage an Accelerator for ML Project (AMP) to quickly deploy an LLM Chatbot augmented by Enterprise data. This lab will:
+   - Guide you through a one-click deployment process.
+   - Demonstrate how to integrate enterprise data for context-aware responses.
+   👉 [Start Here](03_llmchatbot.md)
 
 Send a note to cdptrial@cloudera.com for any questions you have!
