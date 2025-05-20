@@ -3,11 +3,11 @@
 As part of the `Prerequisites`, we will walk through the initial setup and configuration steps needed in your environment before we can proceed with the `Ingest` phase labs, including:
 
 - Decide on a unique **Prefix** that will identify the databases you will create
-- Deploy a new Machine Learning (ML) project
+- Deploy a new Cloudera AI workbench project
 - Configure and deploy an Applied Machine Learning Prototype (AMP)
 
 
-# Cloudera Machine Learning (CML) Project
+# Cloudera AI Project
 
 In this phase, we will be deploying an end\-to\-end machine learning project that will also be used in the [04_predict](04_predict.md) phases.
 
@@ -15,15 +15,15 @@ In this phase, we will be deploying an end\-to\-end machine learning project tha
 
 1. Open Cloudera AI
 
-    - Select the `Machine Learning` tile on the CDP Home page
+    - Select the `Cloudera AI` tile on the CDP Home page
     
         > Note: If you are not already at the CDP Home Page, click the bento menu icon in the top left corner, then click on `Home`
         
         ![Screen_Shot_2023_04_24_at_11_42_33_PM.png](images/Screen_Shot_2023_04_24_at_11_42_33_PM.png)
     
-    - From the Machine Learning home page, click on the available Workspace (found under the `Workspace` column). 
+    - From the Cloudera AI home page, click on the available Workbench (found under the `Workbench` column). 
 
-    - Make note of the `Workspace/Environment` value listed as you will need to enter this value later on
+    - Make note of the `Workbench/Environment` value listed as you will need to enter this value later on
 
         ![Screen_Shot_2023_04_24_at_11_37_42_PM.png](images/Screen_Shot_2023_04_24_at_11_37_42_PM.png)
 
@@ -50,7 +50,7 @@ In this phase, we will be deploying an end\-to\-end machine learning project tha
     Fill out the form as noted below:
 
     - **STORAGE_MODE:** `local`
-    - **SPARK_CONNECTION_NAME:** `<use the Workspace/Environment value we captured earlier>`
+    - **SPARK_CONNECTION_NAME:** `<use the Workbench/Environment value we captured earlier>`
     - **DW_DATABASE:** `<prefix>_airlines` (e.g. prefix = evolve)
     - **DW_TABLE:** `flights`
     - **USE_PREBUILT_MODEL:** `no`
@@ -62,7 +62,7 @@ In this phase, we will be deploying an end\-to\-end machine learning project tha
 
     - It takes a few minutes to run the Jobs to build and deploy an end\-to\-end machine learning project
 
-    - CML will automatically execute the following 10 steps:
+    - Cloudera AI will automatically execute the following 10 steps:
 
         `Step 1:` Job to install dependencies
 

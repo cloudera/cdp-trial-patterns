@@ -1,7 +1,7 @@
 # Cloudera AI Inference service
 
 1. On login, you will be taken to Trials Home Page
-2. Click, **Start Trial** go to your Machine Learning Workspace
+2. Click, **Start Trial** go to your Machine Learning Workbench
 3. From here you need to click on the 9-dot menu in the top-left corner and go to Cloudera AI
 4. [Here](https://app.getreprise.com/launch/dyR7W26/) is an interactive Reprise demo showcasing Cloudera AI Inference capabilities.
 

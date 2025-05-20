@@ -4,7 +4,7 @@ In this phase:
 
    - We will test some cool features of Iceberg in Impala including in-place Table Evolution features - Partition & Schema, and Time Travel
 
-   - Modify the CML Project `Canceled Flight Prediction` to use the airlines data from the Data Lakehouse instead of the data that is included with the AMP that was deployed.  This simulates how you can use the AMPs to get a starting point and modify it to fit your use case.
+   - Modify the Cloudera AI Project `Canceled Flight Prediction` to use the airlines data from the Data Lakehouse instead of the data that is included with the AMP that was deployed.  This simulates how you can use the AMPs to get a starting point and modify it to fit your use case.
 
 
 ## Prerequisites
@@ -217,7 +217,7 @@ In this phase:
 
 ## Lab 4: Use Data Lakehouse Data for Data Processing to Re-Train the Model
 
-1. Open Cloudera Machine Learning (CML)
+1. Open Cloudera AI
 
     - If you just completed Lab 3, on your browser click on the `Cloudera Management Console` tab
 
@@ -227,7 +227,7 @@ In this phase:
 
    ![Screen_Shot_2023_04_24_at_11_33_56_PM.png](images/Screen_Shot_2023_04_24_at_11_33_56_PM.png)
     
-    - Select the `Machine Learning` tile, and click on the available Workspace on the Machine Learning page (found under the `Workspace` column).
+    - Select the `Cloudera AI` tile, and click on the available Workbench on the Cloudera AI page (found under the `Workbench` column).
 
    ![Screen_Shot_2023_04_24_at_11_42_33_PM.png](images/Screen_Shot_2023_04_24_at_11_42_33_PM.png)
    

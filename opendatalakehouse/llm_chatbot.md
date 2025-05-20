@@ -1,12 +1,12 @@
 # LLM Chatbot Augmented with Enterprise Data 
 
-In this lab, we will go through steps to build a LLM Chatbot using Cloudera Machine Learning (CML)
+In this lab, we will go through steps to build a LLM Chatbot using Cloudera AI
 
 1. Select Machine Learning in Cloudera Data Platform Home Page
 
 ![Screen_Shot_2023_04_24_at_11_42_33_PM.png](images/Screen_Shot_2023_04_24_at_11_42_33_PM.png)
 
-2. Click on the workspace available in your Machine Learning Page 
+2. Click on the workbench available in your Cloudera AI Page 
 
 ![Screen_Shot_2023_04_24_at_11_37_42_PM.png](images/Screen_Shot_2023_04_24_at_11_37_42_PM.png)
 

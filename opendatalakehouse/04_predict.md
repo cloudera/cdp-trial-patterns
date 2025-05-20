@@ -1,21 +1,21 @@
 # 04_predict
 
-As part of the `Predict` phase, we will explore and test the end\-to\-end Applied Machine Learning Prototype (AMP) project we created in the [Prerequisites Lab](00_prereqs.md) using Cloudera Machine Learning (CML).
+As part of the `Predict` phase, we will explore and test the end\-to\-end Applied Machine Learning Prototype (AMP) project we created in the [Prerequisites Lab](00_prereqs.md) using Cloudera AI.
 
-The primary goal of the project we deployed is to build a gradient-boosted \(XGBoost\) classification model to predict the likelihood of a flight being canceled based on years of historical records. To achieve that goal, this project demonstrates the end\-to\-end Machine Learning journey for model training and inference using Spark on CML. Additionally, this project deploys a hosted model and front\-end application to allow users to interact with the trained model.
+The primary goal of the project we deployed is to build a gradient-boosted \(XGBoost\) classification model to predict the likelihood of a flight being canceled based on years of historical records. To achieve that goal, this project demonstrates the end\-to\-end Machine Learning journey for model training and inference using Spark on Cloudera AI. Additionally, this project deploys a hosted model and front\-end application to allow users to interact with the trained model.
 
 ## Prerequisites
 
 1. Please ensure that you have completed [00_prereqs](00_prereqs.md) to deploy the Applied Machine Learning Prototype (AMP) for `Canceled Flight Prediction`.
 2. Please ensure that you have completed [01_ingest](01_ingest.md#01_ingest) to ingest the data needed for Visualizations.
 
-## Lab 1 - Explore Machine Learning AMP Project
+## Lab 1 - Explore Cloudera AI AMP Project
 
-1. In your CML workspace, within the **Canceled Flight Prediction** project, click `Overview` in the left navigation menu.
+1. In your Cloudera AI workbench, within the **Canceled Flight Prediction** project, click `Overview` in the left navigation menu.
 
     ![CML_Overview_left_nav.png](images/CML_Overview_left_nav.png)
 
-    - Note: If you are having trouble finding it, you can always go back to the CDP Home Page by clicking the bento menu icon in the top left corner, clicking on Home, selecting the `Machine Learning` tile, clicking on the Workspace available on your Machine Learning page (found under the `Workspace` column), find and select the `Canceled Flight Prediction` project tile.
+    - Note: If you are having trouble finding it, you can always go back to the CDP Home Page by clicking the bento menu icon in the top left corner, clicking on Home, selecting the `Cloudera AI` tile, clicking on the workbench available on your Cloudera AI page (found under the `Workbench` column), find and select the `Canceled Flight Prediction` project tile.
    
     ![Screen_Shot_2023_04_24_at_11_33_56_PM.png](images/Screen_Shot_2023_04_24_at_11_33_56_PM.png)
 
@@ -29,7 +29,7 @@ The primary goal of the project we deployed is to build a gradient-boosted \(XGB
 
 3. On the **Overview** page, you can preview the materials that were created as part of deploying the AMP.
 
-    - AMPs are ML projects that provide reference examples to solving common problems in the machine learning field. More than simplified quickstarts or tutorials, AMPs are fully developed expert solutions that demonstrate how to fully use the power of CML. AMPs can be an excellent way to get started as they show you how to solve problems similar to your business use cases.
+    - AMPs are ML projects that provide reference examples to solving common problems in the machine learning field. More than simplified quickstarts or tutorials, AMPs are fully developed expert solutions that demonstrate how to fully use the power of Cloudera AI. AMPs can be an excellent way to get started as they show you how to solve problems similar to your business use cases.
 
     ![AMP_overview_page.png](images/AMP_overview_page.png)
 
@@ -98,7 +98,7 @@ The primary goal of the project we deployed is to build a gradient-boosted \(XGB
 
 The AMP deployed a visual dashboard to expose the results from the Machine Learning pipeline for the business users. In this lab, we will access the Analytical Application.
 
-1. Click `Applications` in the CML left navigation menu to go to the Applications View page.
+1. Click `Applications` in the Cloudera AI left navigation menu to go to the Applications View page.
 
     ![CML_applications_nav.png](images/CML_applications_nav.png)
 
@@ -120,15 +120,15 @@ The AMP deployed a visual dashboard to expose the results from the Machine Learn
 
     ![Screen_Shot_2023_04_25_at_12_08_43_AM.png](images/Screen_Shot_2023_04_25_at_12_08_43_AM.png)
 
-## Lab 4 - Connect CML to Data Lakehouse
+## Lab 4 - Connect Cloudera AI to Data Lakehouse
 
-In this Lab we will create a new Python program that will connect to our Data Lakehouse we created in [01_ingest](01_ingest.md) phase and read the data into CML. To test out our code we will interact with a CML Session which allows us to run our code and provides access to an interactive command prompt and terminal.
+In this Lab we will create a new Python program that will connect to our Data Lakehouse we created in [01_ingest](01_ingest.md) phase and read the data into Cloudera AI. To test out our code we will interact with a Cloudera AI Session which allows us to run our code and provides access to an interactive command prompt and terminal.
 
 Once you complete this lab, you will have now used 2 analytical tools to interact with the same, ***single copy*** of data or ***single source of truth*** from our Data Lakehouse. 
 
 It is important to emphasize that there was no requirement to create a duplicate copy of the data. The same security policies that would be set up on this table also carry forward when using any Cloudera Data Service to access this data.
 
-1. Return to CML - click browser tab `Applications - Cloudera Machine Learning`
+1. Return to Cloudera AI - click browser tab `Applications - Cloudera AI`
 
     ![CML Return](images/CML_return_to_Apps_page.png)
 
