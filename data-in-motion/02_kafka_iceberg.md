@@ -6,7 +6,7 @@ A few weeks have passed since you built your data flow with DataFlow Designer to
 
 ## 2.1 Open ReadyFlow & start Test Session
 
-1. On the CDP Public Cloud Home Page, navigate to **DataFlow**
+1. On the Cloudera on Cloud Home Page, navigate to **DataFlow**
 2. Navigate to the **ReadyFlow Gallery**
 3. Explore the ReadyFlow Gallery
 4. Search for the “Kafka to Iceberg” ReadyFlow.

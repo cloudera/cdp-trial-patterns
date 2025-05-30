@@ -14,7 +14,7 @@ The primary goal of this is to build an ingestion data pipeline.
     - Airlines
     - Passengers
 
-- We connect to the source bucket, pull all 5 datasets, and ingest them into the CDP Data Lakehouse (using Impala in this case) for further analysis in the [Analyze](02_analyze.md) phase and ultimately into our Machine Learning Prediction Model.
+- We connect to the source bucket, pull all 5 datasets, and ingest them into the Data Lakehouse (using Impala in this case) for further analysis in the [Analyze](02_analyze.md) phase and ultimately into our Machine Learning Prediction Model.
 
 ## Lab 1: Ingest Flights Raw Data
 
@@ -24,7 +24,7 @@ The primary goal of this is to build an ingestion data pipeline.
 - In this lab, we will first create a **raw layer** in our Data Lakehouse. This raw layer will be created by leveraging CSV data that has already been stored in our Public Cloud storage, in this lab we will use S3, for the 5 tables mentioned above
 - This lab is meant to show how quickly you can take raw data and enable the ability to execute SQL queries against that data
 
-1. In your CDP Home Page, click on **Data Warehouse**. (For more information about Data Warehouse, here is a [product tour](https://docs.cloudera.com/data-warehouse/cloud/index.html))
+1. In your Cloudera Home Page, click on **Data Warehouse**. (For more information about Data Warehouse, here is a [product tour](https://docs.cloudera.com/data-warehouse/cloud/index.html))
 
    ![Datawarehouse](images/CDP_DATA_WAREHOUSE.png)
 

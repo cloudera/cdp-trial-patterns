@@ -1,11 +1,11 @@
-# Cloudera Data Platform (CDP) Public Cloud Trial
+# Cloudera on Cloud Trial
 
 ---
 
 ## Welcome to the **Cloudera Data Engineering** tutorial! 
 
 ---
-In this hands-on experience, you'll dive into the Cloudera Data Engineering (CDE) service , an essential component of the Cloudera Data Platform (CDP) that simplifies large-scale batch processing with Apache Spark, Airflow, and Iceberg.
+In this hands-on experience, you'll dive into the Cloudera Data Engineering (CDE) service , an essential component of the Cloudera on Cloud that simplifies large-scale batch processing with Apache Spark, Airflow, and Iceberg.
 
 
 Throughout these labs, you are going to deploy an ELT (Extract, Load, Transform) data pipeline that extracts data stored on AWS S3 object storage, loads it into the Cloudera Data Lakehouse and transforms it for reporting purposes.

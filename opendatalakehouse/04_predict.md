@@ -15,7 +15,7 @@ The primary goal of the project we deployed is to build a gradient-boosted \(XGB
 
     ![CML_Overview_left_nav.png](images/CML_Overview_left_nav.png)
 
-    - Note: If you are having trouble finding it, you can always go back to the CDP Home Page by clicking the bento menu icon in the top left corner, clicking on Home, selecting the `Cloudera AI` tile, clicking on the workbench available on your Cloudera AI page (found under the `Workbench` column), find and select the `Canceled Flight Prediction` project tile.
+    - Note: If you are having trouble finding it, you can always go back to the Cloudera Home Page by clicking the bento menu icon in the top left corner, clicking on Home, selecting the `Cloudera AI` tile, clicking on the workbench available on your Cloudera AI page (found under the `Workbench` column), find and select the `Canceled Flight Prediction` project tile.
    
     ![Screen_Shot_2023_04_24_at_11_33_56_PM.png](images/Screen_Shot_2023_04_24_at_11_33_56_PM.png)
 

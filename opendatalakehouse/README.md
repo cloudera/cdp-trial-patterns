@@ -1,4 +1,4 @@
-# Cloudera Data Platform (CDP) Public Cloud Trial
+# Cloudera on Cloud Trial
 
 ## Welcome to the **All in One Data Lakehouse** tutorial! 
 

@@ -15,7 +15,7 @@ In this phase:
 
 ## Lab 1: Schema Evolution 
 
-1. In your CDP Home Page, click on **Data Warehouse**. (For more information about Data Warehouse, here is a [product tour](https://docs.cloudera.com/data-warehouse/cloud/index.html))
+1. In your Cloudera Home Page, click on **Data Warehouse**. (For more information about Data Warehouse, here is a [product tour](https://docs.cloudera.com/data-warehouse/cloud/index.html))
 
    ![Datawarehouse](images/CDP_DATA_WAREHOUSE.png)
 
@@ -223,7 +223,7 @@ In this phase:
 
    ![Return to Management Console](images/Browser_Return_to_Mgmt_Console.png)
 
-   - Go back to the CDP Home Page by clicking the bento menu icon in the top left corner, click on `Home`
+   - Go back to the Cloudera Home Page by clicking the bento menu icon in the top left corner, click on `Home`
 
    ![Screen_Shot_2023_04_24_at_11_33_56_PM.png](images/Screen_Shot_2023_04_24_at_11_33_56_PM.png)
     

@@ -15,9 +15,9 @@ In this phase, we will be deploying an end\-to\-end machine learning project tha
 
 1. Open Cloudera AI
 
-    - Select the `Cloudera AI` tile on the CDP Home page
+    - Select the `Cloudera AI` tile on the Cloudera Home page
     
-        > Note: If you are not already at the CDP Home Page, click the bento menu icon in the top left corner, then click on `Home`
+        > Note: If you are not already at the Cloudera Home Page, click the bento menu icon in the top left corner, then click on `Home`
         
         ![Screen_Shot_2023_04_24_at_11_42_33_PM.png](images/Screen_Shot_2023_04_24_at_11_42_33_PM.png)
     
